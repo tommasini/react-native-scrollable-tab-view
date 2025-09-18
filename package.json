@@ -1,6 +1,6 @@
 {
-  "name": "react-native-scrollable-tab-view",
-  "version": "1.1.0",
+  "name": "@tommasini/react-native-scrollable-tab-view",
+  "version": "1.1.1",
   "description": "This is a fork of react-native-scrollable-tab-view",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "tab",
     "scrollable"
   ],
-  "author": "Brent Vatne",
+  "author": "tommasini",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/brentvatne/react-native-scrollable-tab-view/issues"
